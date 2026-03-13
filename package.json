@@ -1,0 +1,15 @@
+{
+  "name": "tp01",
+  "version": "1.0.0",
+  "description": "Primer TP de node",
+  "license": "ISC",
+  "author": "Valentina Elterman y Ailin Severino",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "EJ01": "node EJ01.js",
+    "EJ02": "node EJ02.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
