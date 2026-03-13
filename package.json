@@ -4,12 +4,16 @@
   "description": "Primer TP de node",
   "license": "ISC",
   "author": "Valentina Elterman y Ailin Severino",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "EJ01": "node EJ01.js",
     "EJ02": "node EJ02.js",
+    "EJ03": "node EJ03.js",
+    "EJ04": "node EJ04.js",
+    "EJ05": "node EJ05.js",
+    "EJ06": "node EJ06.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
